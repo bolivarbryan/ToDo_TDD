@@ -168,7 +168,7 @@
 				TargetAttributes = {
 					9321A9FF1E8E0F6D00058A3C = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = K87XPR878Y;
+						DevelopmentTeam = ZSWGK9H93D;
 						ProvisioningStyle = Automatic;
 					};
 					9321AA131E8E0F6D00058A3C = {
@@ -366,7 +366,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = K87XPR878Y;
+				DEVELOPMENT_TEAM = ZSWGK9H93D;
 				INFOPLIST_FILE = ToDo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bolivarbryan.ToDo;
@@ -379,7 +379,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = K87XPR878Y;
+				DEVELOPMENT_TEAM = ZSWGK9H93D;
 				INFOPLIST_FILE = ToDo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bolivarbryan.ToDo;
@@ -440,6 +440,7 @@
 				9321AA1F1E8E0F6D00058A3C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9321AA201E8E0F6D00058A3C /* Build configuration list for PBXNativeTarget "ToDoTests" */ = {
 			isa = XCConfigurationList;
@@ -448,6 +449,7 @@
 				9321AA221E8E0F6D00058A3C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
