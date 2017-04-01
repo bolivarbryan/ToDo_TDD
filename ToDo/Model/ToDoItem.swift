@@ -1,6 +1,6 @@
 //
 //  ToDoItem.swift
-//  ToDo
+//  ToDo app
 //
 //  Created by Bryan on 30/03/17.
 //  Copyright © 2017 bolivarbryan. All rights reserved.
